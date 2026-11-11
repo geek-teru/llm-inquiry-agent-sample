@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+build/
+
+# 環境変数
+.env
+.env.*
+!.env.example
+
+# Google の認証情報
+credentials.json
+token.json
+service-account*.json
+client_secret*.json
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
