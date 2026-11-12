@@ -1,0 +1,120 @@
+{"id": "INQ-0001", "quality": "outdated", "note": "旧料金（ライト 200円・最低料金なし、スタンダード 400円・最低 3,000円）のまま。現行はスターター 300円・最低 3,000円、スタンダード 500円・最低 5,000円（pricing-2026）"}
+{"id": "INQ-0002", "quality": "ok", "note": ""}
+{"id": "INQ-0003", "quality": "ok", "note": ""}
+{"id": "INQ-0004", "quality": "outdated", "note": "旧版のトライアル日数（14日）のまま。現行は30日（getting-started, faq）"}
+{"id": "INQ-0005", "quality": "ok", "note": ""}
+{"id": "INQ-0006", "quality": "ok", "note": ""}
+{"id": "INQ-0007", "quality": "outdated", "note": "旧版の料金（初期費用 30,000円、プロ 700円・最低 21,000円）。現行は初期費用無料、プロ 800円・最低 24,000円（pricing-2026）"}
+{"id": "INQ-0008", "quality": "outdated", "note": "旧版ではシフト管理はプロのみだった。現行はスタンダード以上で使える（pricing-2026, faq, manual-shift）"}
+{"id": "INQ-0009", "quality": "ok", "note": ""}
+{"id": "INQ-0010", "quality": "ok", "note": ""}
+{"id": "INQ-0011", "quality": "outdated", "note": "旧版の年払い割引（11か月分・1か月分の割引）。現行は10か月分（2か月分の割引）（pricing-2026）"}
+{"id": "INQ-0012", "quality": "ok", "note": ""}
+{"id": "INQ-0013", "quality": "ok", "note": ""}
+{"id": "INQ-0014", "quality": "ok", "note": ""}
+{"id": "INQ-0015", "quality": "outdated", "note": "旧版の解約の申請期限（解約する月の末日まで）。現行は解約する月の前月20日まで（cancellation-guide）"}
+{"id": "INQ-0016", "quality": "ok", "note": ""}
+{"id": "INQ-0017", "quality": "ok", "note": ""}
+{"id": "INQ-0018", "quality": "outdated", "note": "旧版ではライトに有給休暇の管理が無かった。現行は全プランで使える（faq, pricing-2026）"}
+{"id": "INQ-0019", "quality": "ok", "note": ""}
+{"id": "INQ-0020", "quality": "ok", "note": ""}
+{"id": "INQ-0021", "quality": "ok", "note": ""}
+{"id": "INQ-0022", "quality": "outdated", "note": "旧版では残業アラートはプロのみ。現行はスタンダード以上で使える（faq, manual-overtime-alert）"}
+{"id": "INQ-0023", "quality": "ok", "note": ""}
+{"id": "INQ-0024", "quality": "ok", "note": ""}
+{"id": "INQ-0025", "quality": "outdated", "note": "旧版の料金（ライト 200円・最低料金なし、初期費用 30,000円、トライアル 14日）。現行はスターター 300円・最低 3,000円、初期費用無料、トライアル 30日（pricing-2026）"}
+{"id": "INQ-0026", "quality": "ok", "note": ""}
+{"id": "INQ-0027", "quality": "ok", "note": ""}
+{"id": "INQ-0028", "quality": "ok", "note": ""}
+{"id": "INQ-0029", "quality": "ok", "note": ""}
+{"id": "INQ-0030", "quality": "ok", "note": ""}
+{"id": "INQ-0031", "quality": "ok", "note": ""}
+{"id": "INQ-0032", "quality": "ok", "note": ""}
+{"id": "INQ-0033", "quality": "ok", "note": ""}
+{"id": "INQ-0034", "quality": "outdated", "note": "旧版のトライアル日数（14日）。現行は30日（getting-started, faq）"}
+{"id": "INQ-0035", "quality": "ok", "note": ""}
+{"id": "INQ-0036", "quality": "ok", "note": ""}
+{"id": "INQ-0037", "quality": "ok", "note": ""}
+{"id": "INQ-0038", "quality": "outdated", "note": "旧版の初期費用（30,000円）で回答している。2026年4月1日からは初期費用は無料（pricing-2026, faq）"}
+{"id": "INQ-0039", "quality": "ok", "note": ""}
+{"id": "INQ-0040", "quality": "ok", "note": ""}
+{"id": "INQ-0041", "quality": "ok", "note": ""}
+{"id": "INQ-0042", "quality": "ok", "note": ""}
+{"id": "INQ-0043", "quality": "ok", "note": ""}
+{"id": "INQ-0044", "quality": "ok", "note": ""}
+{"id": "INQ-0045", "quality": "outdated", "note": "改定後なのに旧料金（ライト 200円・最低料金なし）で回答。ライトはスターターに移行し、300円・最低 3,000円（pricing-2026）"}
+{"id": "INQ-0046", "quality": "ok", "note": ""}
+{"id": "INQ-0047", "quality": "inconsistent", "note": "請求書払いの条件（年払い、または月額 30,000円以上の月払い）を書き落とし、佐伯の回答（INQ-0049）と食い違う。15人×500円の月払いは条件を満たさない（billing-guide）"}
+{"id": "INQ-0048", "quality": "ok", "note": ""}
+{"id": "INQ-0049", "quality": "ok", "note": ""}
+{"id": "INQ-0050", "quality": "ok", "note": ""}
+{"id": "INQ-0051", "quality": "ok", "note": ""}
+{"id": "INQ-0052", "quality": "ok", "note": ""}
+{"id": "INQ-0053", "quality": "ok", "note": ""}
+{"id": "INQ-0054", "quality": "ok", "note": ""}
+{"id": "INQ-0055", "quality": "ok", "note": ""}
+{"id": "INQ-0056", "quality": "ok", "note": ""}
+{"id": "INQ-0057", "quality": "inconsistent", "note": "残業時間は毎日1回（午前6時ごろ）計算するのでリアルタイムではない。佐伯の回答（INQ-0060）と食い違う（manual-overtime-alert）"}
+{"id": "INQ-0058", "quality": "ok", "note": ""}
+{"id": "INQ-0059", "quality": "ok", "note": ""}
+{"id": "INQ-0060", "quality": "ok", "note": ""}
+{"id": "INQ-0061", "quality": "ok", "note": ""}
+{"id": "INQ-0062", "quality": "ok", "note": ""}
+{"id": "INQ-0063", "quality": "outdated", "note": "旧版の情報（トライアル 14日・初期費用 30,000円）。現行はトライアル 30日・初期費用無料（pricing-2026, getting-started）"}
+{"id": "INQ-0064", "quality": "inconsistent", "note": "スマホアプリは通信できないときの打刻を一時保存し、復旧後に送信する（24時間以内）。森下の回答（INQ-0070）と食い違う（incident-guide）"}
+{"id": "INQ-0065", "quality": "ok", "note": ""}
+{"id": "INQ-0066", "quality": "wrong", "note": "ハルクロックに顔認証打刻は無い。打刻方法は Web・スマホアプリ・共有タブレット・IC カード（manual-clock-in）"}
+{"id": "INQ-0067", "quality": "ok", "note": ""}
+{"id": "INQ-0068", "quality": "inconsistent", "note": "申請した解約は解約日の前日までなら同じ画面から取り消せる。佐伯の回答（INQ-0069）と食い違う（cancellation-guide）"}
+{"id": "INQ-0069", "quality": "ok", "note": ""}
+{"id": "INQ-0070", "quality": "ok", "note": ""}
+{"id": "INQ-0071", "quality": "wrong", "note": "労務・法令の判断（残業時間の上限）に答えている。法令の判断はせず専門家への相談を案内し、佐伯に引き継ぐべき（support-guide, manual-overtime-alert）"}
+{"id": "INQ-0072", "quality": "ok", "note": ""}
+{"id": "INQ-0073", "quality": "ok", "note": ""}
+{"id": "INQ-0074", "quality": "inconsistent", "note": "有給休暇の有効期限は付与日から2年（設定で変更可）。佐伯の回答（INQ-0079）と食い違う（manual-paid-leave）"}
+{"id": "INQ-0075", "quality": "ok", "note": ""}
+{"id": "INQ-0076", "quality": "wrong", "note": "電話・メール・チャットでは解約を受け付けない。契約の管理者が管理画面（設定 > 契約 > 解約の申請）から8月20日までに申請する必要がある（cancellation-guide）"}
+{"id": "INQ-0077", "quality": "inconsistent", "note": "承認者本人が 個人設定 > 代理承認者 で代理と期間を設定できる。佐伯の回答（INQ-0019）と食い違う（manual-approval）"}
+{"id": "INQ-0078", "quality": "ok", "note": ""}
+{"id": "INQ-0079", "quality": "ok", "note": ""}
+{"id": "INQ-0080", "quality": "inconsistent", "note": "締めたあとも管理者は 勤怠集計 > 月次集計 の日ごとの明細から修正できる。森下の回答（INQ-0023）と食い違う（manual-monthly-closing, faq）"}
+{"id": "INQ-0081", "quality": "inconsistent", "note": "年払いの途中解約は更新日の前日まで契約が続き、残りの月数の返金はしない。佐伯の回答（INQ-0085）と食い違う（cancellation-guide, terms-of-service）"}
+{"id": "INQ-0082", "quality": "inconsistent", "note": "月払いの下位プランへの変更は翌月1日から。スターターではシフト管理は使えなくなる。森下の回答（INQ-0061）と食い違う（billing-guide, manual-shift）"}
+{"id": "INQ-0083", "quality": "ok", "note": ""}
+{"id": "INQ-0084", "quality": "inconsistent", "note": "解約日から90日間はログインして CSV で取り出せ、90日を過ぎてから削除する。佐伯の回答（INQ-0016）と食い違う（cancellation-guide）"}
+{"id": "INQ-0085", "quality": "ok", "note": ""}
+{"id": "INQ-0086", "quality": "ok", "note": ""}
+{"id": "INQ-0087", "quality": "ok", "note": ""}
+{"id": "INQ-0088", "quality": "ok", "note": ""}
+{"id": "INQ-0089", "quality": "wrong", "note": "従業員本人からの勤怠データの開示依頼は受けない。契約している会社の管理者を通してもらう（support-guide）"}
+{"id": "INQ-0090", "quality": "ok", "note": ""}
+{"id": "INQ-0091", "quality": "wrong", "note": "IC カード打刻はスタンダード以上。スターターでは使えない（manual-ic-card, pricing-2026）"}
+{"id": "INQ-0092", "quality": "ok", "note": ""}
+{"id": "INQ-0093", "quality": "ok", "note": ""}
+{"id": "INQ-0094", "quality": "ok", "note": ""}
+{"id": "INQ-0095", "quality": "ok", "note": ""}
+{"id": "INQ-0096", "quality": "ok", "note": ""}
+{"id": "INQ-0097", "quality": "ok", "note": ""}
+{"id": "INQ-0098", "quality": "ok", "note": ""}
+{"id": "INQ-0099", "quality": "ok", "note": ""}
+{"id": "INQ-0100", "quality": "ok", "note": ""}
+{"id": "INQ-0101", "quality": "ok", "note": ""}
+{"id": "INQ-0102", "quality": "ok", "note": ""}
+{"id": "INQ-0103", "quality": "ok", "note": ""}
+{"id": "INQ-0104", "quality": "ok", "note": ""}
+{"id": "INQ-0105", "quality": "ok", "note": ""}
+{"id": "INQ-0106", "quality": "ok", "note": ""}
+{"id": "INQ-0107", "quality": "ok", "note": ""}
+{"id": "INQ-0108", "quality": "outdated", "note": "旧版の解約の申請期限（解約する月の末日まで）。現行は前月20日まで → 11月末の解約なら10月20日まで（cancellation-guide）"}
+{"id": "INQ-0109", "quality": "ok", "note": ""}
+{"id": "INQ-0110", "quality": "outdated", "note": "旧版の初期費用（30,000円）。現行は初期費用無料（pricing-2026, faq）"}
+{"id": "INQ-0111", "quality": "ok", "note": ""}
+{"id": "INQ-0112", "quality": "ok", "note": ""}
+{"id": "INQ-0113", "quality": "ok", "note": ""}
+{"id": "INQ-0114", "quality": "ok", "note": ""}
+{"id": "INQ-0115", "quality": "ok", "note": ""}
+{"id": "INQ-0116", "quality": "ok", "note": ""}
+{"id": "INQ-0117", "quality": "ok", "note": ""}
+{"id": "INQ-0118", "quality": "ok", "note": ""}
+{"id": "INQ-0119", "quality": "ok", "note": ""}
+{"id": "INQ-0120", "quality": "ok", "note": ""}
